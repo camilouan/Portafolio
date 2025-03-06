@@ -80,23 +80,6 @@ Controla tu money le permitirá al usuario consultar e interactuar con la interf
 
 12)tendrá un apartado de perfil del usuario  donde podrá ingresar su información
 
-Podrá ingresar sus gastos de acuerdo en que ámbito lo gasto.
-
-Tendrá una sección donde habrá consejos de finanzas y ahorro
-
-Ir al sitio web del Podcast (si existe): Si el Podcast tiene un sitio web podrá abrirlo en el navegador por defecto en su celular.
-
-Reproducir episodios de podcast: Desde la lista de episodios podrá reproducir cualquiera de ellos.
-
-Adelantar la reproducción de un podcast: Podrá adelantar la reproducción en intervalos de 15 segundos.
-
-Retrasar la reproducción de un podcast: Podrá regresar la reproducción en intervalos de 15 segundos.
-
-Buscar podcasts por nombre: Al ir a la ventana de búsqueda podrá navegar buscando el nombre de su podcast de interés.
-
-Votar por los podcasts favoritos: En cada Podcast tendrá una opción para votar por el podcast. La votación será personal y estará disponible solo desde el dispositivo.
-
-Ver los podcasts favoritos: Podrá ir a la ventana de favoritos donde verá los Podcasts que ha votado como favoritos en orden de calificación.
 
  
 
