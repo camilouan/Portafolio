@@ -38,11 +38,10 @@ aqui hay un breve consejo para que el usuario pueda ver tips de ahorro
 
 ![image](https://github.com/user-attachments/assets/02216b28-b5f2-490c-aaae-ecf039baeef3)
 
-
-
-![image](https://github.com/user-attachments/assets/760325a0-3deb-4e67-ae32-262c8c23718a)
 7.TIPOS DE GASTOS
 aqui el cliente elige que tipo de gasto ha tenido 
+
+![image](https://github.com/user-attachments/assets/760325a0-3deb-4e67-ae32-262c8c23718a)
 
 
 8.INGRESAR EL GASTO QUE TUVO
