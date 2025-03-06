@@ -78,11 +78,11 @@ Aplicaciones similares a esta :
 
 Aplicaciones similares a esta :
 
-### **1\. Google Calendar :**Permite gestionar recordatorios sincronizados con google de cualquier índoles entre esas los académicos.
+ **1\. Google Calendar :**Permite gestionar recordatorios sincronizados con google de cualquier índoles entre esas los académicos.
 
-### **2\. myHomework Student Planner :**aplicación para estudiantes que tiene también sincronización entre dispositivos
+**2\. myHomework Student Planner :**aplicación para estudiantes que tiene también sincronización entre dispositivos
 
-### 
+#
 
  
 
