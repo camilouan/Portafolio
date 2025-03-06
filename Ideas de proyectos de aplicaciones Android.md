@@ -64,11 +64,11 @@ Aplicaciones similares a esta :
 
 Aplicaciones similares a esta :
 
-1\. medisafe :**tiene funciones para poder hacer seguimiento con familiares y cuidadores , avisa con notificaciones de sus dosis y recuerda los distintos medicamentos que el usuario tiene.
+1\. medisafe :tiene funciones para poder hacer seguimiento con familiares y cuidadores , avisa con notificaciones de sus dosis y recuerda los distintos medicamentos que el usuario tiene.
 
 2\. Pill Reminder \- Meds Alarm** : es una aplicación que  además de controlar tus medicamentos tiene compatibilidad con smart watch
 
-3.My Therapy**: es un app que controla tu peso y datos médicos , también puede tener información suministrada con médicos dependiendo de tu caso especifico 
+3.My Therapy: es un app que controla tu peso y datos médicos , también puede tener información suministrada con médicos dependiendo de tu caso especifico 
 
 **Mon**
 
