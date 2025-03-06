@@ -2,7 +2,8 @@ LINK DE MARVEL APP PARA PODER VISUALIZARLO MEJOR E INTERACTUAR
 
 [https://marvelapp.com/prototype/acj1a53](https://marvelapp.com/prototype/acj1a53)
 
-![][image1]
+![image](https://github.com/user-attachments/assets/aa4d72aa-0e4b-463c-a4a4-1a55c1f5e3ee)
+
 
 LOGIN DE LA APLICACION
 
